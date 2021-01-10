@@ -6,9 +6,9 @@ Some images I've made, mainly using [QGIS](https://qgis.org/en/site/about/index.
 
 ![alt text][BR_image]
 [BR_image]: https://github.com/cverdel/image_examples/blob/main/figures/Rplot07.jpg?raw=true
+
 ![alt text][BR_image2]
 [BR_image2]: https://github.com/cverdel/image_examples/blob/main/figures/Rplot08.jpg?raw=true
-
 
 **Rayshaded version of a [Geoscience Australia topographic map](https://www.ga.gov.au/scientific-topics/national-location-information/topographic-maps-data/topographic-maps) from the western part of the [Tweed volcano](https://en.wikipedia.org/wiki/Tweed_Volcano) in eastern Australia.**
 
