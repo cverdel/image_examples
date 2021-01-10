@@ -15,6 +15,12 @@ Some images I've made, mainly using [QGIS](https://qgis.org/en/site/about/index.
 
 [Tweed_image]: https://github.com/cverdel/image_examples/blob/main/figures/Rplot05.jpg?raw=true
 
+**Rayshaded topographic map from the Hamersley Range of Western Australia.**
+![alt text][WA_image]
+
+[WA_image]: https://github.com/cverdel/image_examples/blob/main/figures/WARplot05.jpg?raw=true
+
+
 
 
 
