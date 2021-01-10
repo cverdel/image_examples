@@ -1,6 +1,6 @@
 # Image examples
 
-Some images I've made, mainly using QGIS and rayshader
+Some images I've made, mainly using [QGIS] (https://qgis.org/en/site/about/index.html) and rayshader.
 
 Rayshaded version of the 1st edition Bloods Range 1:250,000-scale geological map in the Amadeus Basin of the Northern Territory.
 
