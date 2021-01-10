@@ -1,8 +1,8 @@
 # Image examples
 
-Some images I've made, mainly using [QGIS](https://qgis.org/en/site/about/index.html) and [rayshader](https://www.rayshader.com/).
+Some images I've made, mainly using [QGIS](https://qgis.org/en/site/about/index.html) and [rayshader](https://www.rayshader.com/). I normally use [SRTM elevation data](https://dwtkns.com/srtm30m/).
 
-**Rayshaded version of the 1st edition Bloods Range 1:250,000-scale geological map in the Amadeus Basin of the Northern Territory.**
+**Rayshaded version of the [1st edition Bloods Range 1:250,000-scale geological map](https://geoscience.nt.gov.au/gemis/ntgsjspui/handle/1/81646) in the [Amadeus Basin](https://en.wikipedia.org/wiki/Amadeus_Basin) of the Northern Territory.**
 
 ![alt text][BR_image]
 
