@@ -23,6 +23,11 @@ Some images I've made, mainly using [QGIS](https://qgis.org/en/site/about/index.
 
 [WA_image]: https://github.com/cverdel/image_examples/blob/main/figures/WARplot05.jpg?raw=true
 
+**Rayshaded topographic map from [Barrington Tops National Park](https://en.wikipedia.org/wiki/Barrington_Tops_National_Park) in New South Wales.**
+![alt text][Barrington_image]
+
+[Barrington_image]: https://github.com/cverdel/image_examples/blob/main/figures/NSW_Rplot.jpg?raw=true
+
 
 
 
