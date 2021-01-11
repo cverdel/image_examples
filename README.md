@@ -22,7 +22,7 @@ Some images I've made, mainly using [QGIS](https://qgis.org/en/site/about/index.
 **1:250,000-scale Mount Bruce map**
 ![alt text][WA_image2]
 
-[WA_image]: https://github.com/cverdel/image_examples/blob/main/figures/Rplot10.jpg?raw=true
+[WA_image2]: https://github.com/cverdel/image_examples/blob/main/figures/Rplot10.jpg?raw=true
 
 **1:50,000-scale Wallarra map**
 
