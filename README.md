@@ -19,6 +19,7 @@ Some images I've made, mainly using [QGIS](https://qgis.org/en/site/about/index.
 [Tweed_image]: https://github.com/cverdel/image_examples/blob/main/figures/Rplot05.jpg?raw=true
 
 **Two rayshaded topographic maps from the [Hamersley Range](https://en.wikipedia.org/wiki/Hamersley_Range) of Western Australia.**
+
 **1:250,000-scale Mount Bruce map**
 ![alt text][WA_image2]
 
