@@ -25,7 +25,7 @@ Some images I've made, mainly using [QGIS](https://qgis.org/en/site/about/index.
 
 [WA_image2]: https://github.com/cverdel/image_examples/blob/main/figures/Rplot10.jpg?raw=true
 
-**1:50,000-scale Wallarra map**
+**1:50,000-scale Wallarra map. Fairly easy to see which part of the Mount Bruce map (above) is covered by this map.**
 
 ![alt text][WA_image]
 
