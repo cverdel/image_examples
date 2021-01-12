@@ -2,7 +2,8 @@
 
 Some images I've made, mainly using [QGIS](https://qgis.org/en/site/about/index.html) and [rayshader](https://www.rayshader.com/). I normally use [SRTM elevation data](https://dwtkns.com/srtm30m/).
 
-**Rayshaded version of a [USGS topographic map](https://store.usgs.gov/filter-products?categories=%5B15%5D&page=1) that covers the [Bingham Canyon mine](https://en.wikipedia.org/wiki/Bingham_Canyon_Mine) in Utah. 
+**Rayshaded version of a [USGS topographic map](https://store.usgs.gov/filter-products?categories=%5B15%5D&page=1) that covers the [Bingham Canyon mine](https://en.wikipedia.org/wiki/Bingham_Canyon_Mine) in Utah.**
+
 ![alt text][BC_image]
 
 [BC_image]: https://github.com/cverdel/image_examples/blob/main/figures/plot2.png?raw=true
