@@ -2,6 +2,11 @@
 
 Some images I've made, mainly using [QGIS](https://qgis.org/en/site/about/index.html) and [rayshader](https://www.rayshader.com/). I normally use [SRTM elevation data](https://dwtkns.com/srtm30m/).
 
+**Rayshaded version of a [USGS topographic map](https://store.usgs.gov/filter-products?categories=%5B15%5D&page=1) that covers the [Bingham Canyon mine](https://en.wikipedia.org/wiki/Bingham_Canyon_Mine) in Utah. 
+![alt text][BC_image]
+
+[BC_image]: https://github.com/cverdel/image_examples/blob/main/figures/plot2.png?raw=true
+
 **Rayshaded version of the [1st edition Bloods Range 1:250,000-scale geological map](https://geoscience.nt.gov.au/gemis/ntgsjspui/handle/1/81646) in the [Amadeus Basin](https://en.wikipedia.org/wiki/Amadeus_Basin) of the Northern Territory. I got the idea for the relief of the legend from [Sean Conway](https://muir-way.com/collections/vintage-relief#).**
 
 ![alt text][BR_image]
