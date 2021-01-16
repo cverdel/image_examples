@@ -45,7 +45,7 @@ Some images I've made, mainly using [QGIS](https://qgis.org/en/site/about/index.
 **Rayshaded USGS topographic map from Colorado.**
 ![alt text][Fraser_image]
 
-[Fraser_image]: https://github.com/cverdel/image_examples/blob/main/figures/C)_plot7.png?raw=true
+[Fraser_image]: https://github.com/cverdel/image_examples/blob/main/figures/CO_plot7.png?raw=true
 
 
 
