@@ -42,6 +42,11 @@ Some images I've made, mainly using [QGIS](https://qgis.org/en/site/about/index.
 
 [Barrington_image]: https://github.com/cverdel/image_examples/blob/main/figures/NSW_Rplot.jpg?raw=true
 
+**Rayshaded USGS topographic map from Colorado.**
+![alt text][Fraser_image]
+
+[Fraser_image]: https://github.com/cverdel/image_examples/blob/main/figures/C)_plot7.png?raw=true
+
 
 
 
