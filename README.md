@@ -36,7 +36,7 @@ Some images I've made, mainly using [QGIS](https://qgis.org/en/site/about/index.
 
 [Trephina_image]: https://github.com/cverdel/image_examples/blob/main/figures/Trephina15.jpg?raw=true
 
-**Rayshaded topographic map from the Tian Shan](https://en.wikipedia.org/wiki/Tian_Shan).**
+**Rayshaded topographic map from the [Tian Shan](https://en.wikipedia.org/wiki/Tian_Shan).**
 
 ![alt text][Tian_image]
 
